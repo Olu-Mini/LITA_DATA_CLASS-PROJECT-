@@ -29,4 +29,6 @@ Used for data visualization and creating interactive dashboards.
 3. Customer Insights: Examine customer purchase frequency, average order value, and total lifetime spend.
 
 ### Data Visualization 
+![SALES REPORT PICTURE](https://github.com/user-attachments/assets/7f8c1c2a-18de-4858-afa0-ac191bd6ff87)
+
 
