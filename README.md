@@ -1,7 +1,7 @@
 # LITA_DATA_CLASS-PROJECT
 
 ### Project Tittle: Sales Performance Analysis for a Retail Store 
-
+---
 ### Project Overview
 This Data Analysis project aims provides a comprehensive analysis of sales performance of a retai store data using tools such as Excel, SQL, and Power BI. By examining key insights to make reasonable sales decisions which the  enable us to tell compelling stories around our insights that can improve its marketing effectiveness 
 
@@ -27,3 +27,6 @@ Used for data visualization and creating interactive dashboards.
 1. Sales Trends: Using SQL, calculate monthly and yearly sales, analyze seasonality, and identify peak sales periods.
 2. Product Performance: Rank products based on sales volume and revenue to identify top-performing items.
 3. Customer Insights: Examine customer purchase frequency, average order value, and total lifetime spend.
+
+,,,SQL
+se
