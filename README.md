@@ -28,5 +28,5 @@ Used for data visualization and creating interactive dashboards.
 2. Product Performance: Rank products based on sales volume and revenue to identify top-performing items.
 3. Customer Insights: Examine customer purchase frequency, average order value, and total lifetime spend.
 
-,,,SQL
-se
+### Data Visualization 
+
